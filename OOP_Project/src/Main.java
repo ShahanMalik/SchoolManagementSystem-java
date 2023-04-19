@@ -926,15 +926,7 @@ public class Main {
             } while (doLoop <= 3);
         }
 
-        // Student s1=new Student("Shahan", "B203", "Attock", "Male", 12, "7 - 2");
-        // Teacher t1=new Teacher("Malik", "C303", "Attock", "Male", 123, "PHD");
-        // OfficeStaff os1=new OfficeStaff(schoolOfficeStaff.get(0), "D204", "Attock",
-        // "Male", 44, "BCS");
-        // Labour l1=new Labour(schoolLabour.get(0), "A102","Attock", "Male", 12, true);
-        // _Bus b1=new _Bus(5);
-        // SecurityGuard sg1=new SecurityGuard("ShahanMalik", "W402", "Attock", "Male",
-        // 12, true);
-        // School s=new School(null, t1, s1, os1, l1, sg1, b1);
+       
     }
 
 }
